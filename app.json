@@ -1,0 +1,10 @@
+{
+  "name": "BELFAST",
+  "description": "Belfast is Ready to SHIP.",
+  "repository": "https://github.com/iamvpk/Belfast",
+  "keywords": ["NODE", "AZUR-LANE", "BELFAST"],
+  "builpacks": [
+    { "url": "heroku/nodejs" },
+    { "url": "https://github.com/jontewks/puppeteer-heroku-buildpack.git" }
+  ]
+}
