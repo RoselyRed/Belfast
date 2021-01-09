@@ -127,4 +127,6 @@ torrent: {
 }
 ```
 
-sites available piratebay, 1337x, limetorrent
+#### Sites Available `Piratebay`, `1337x`, `Limetorrent`.
+
+>A Special Heartful Thanks to [PatheticGeek](https://github.com/patheticGeek) for His wonderful Contribution on This.
