@@ -54,7 +54,7 @@ remove - A download task
 
 ## MISC SET-UPS
 ### To Get `SEARCH` working:
-The library used for web scrapping the torrent sites requires a custom buildpack on heroku. By default the search will happen on your deployment and you will need to configure the buildpack as described below. But if you don't want to do that you can specify and env `SEARCH_SITE` and set value to `https://torrent-aio-bot.herokuapp.com/` . The frwd slash at end is necessary. This will make all the searches go thru my deployment and you don't need to configure buildpack.
+The library used for web scrapping the torrent sites requires a custom buildpack on heroku. By default the search will happen on your deployment and you will need to configure the buildpack as described below. But if you don't want to do that you can specify and env `SEARCH_SITE` and set value to `https://iambelfast.herokuapp.com/` . The forrwd slash at end is necessary. This will make all the searches go thru my deployment and you don't need to configure buildpack.
 Go to the build packs section in settings and click add buildpack and enter "https://github.com/jontewks/puppeteer-heroku-buildpack.git" as buildpack url then click save changes. And then do a dummy git commit so that heroku will buid it using the buildpack this time. Then set the `SEARCH_SITE` env to same value as `SITE`.
 
 ### TO CHECK G-Drive Upload:
