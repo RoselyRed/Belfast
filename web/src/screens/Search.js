@@ -69,6 +69,6 @@ function Search({ api }) {
   );
 }
 
-Search.defaultProps = { api: "https://torrent-aio-bot.herokuapp.com/" };
+Search.defaultProps = { api: "https://iambelfast.herokuapp.com/" };
 
 export default Search;
