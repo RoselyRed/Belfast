@@ -2,7 +2,7 @@
   "name": "BELFAST",
   "description": "Belfast is Ready to SHIP.",
   "repository": "https://github.com/iamvpk/Belfast",
-  "logo": "https://github.com/iamvpk/iamvpk/blob/main/Media/MiNa.jpg",
+  "logo": "https://raw.githubusercontent.com/iamvpk/iamvpk/main/Media/MiNa.jpg",
   "keywords": ["NODE", "AZUR-LANE", "BELFAST"],
   "builpacks": [
     { "url": "heroku/nodejs" },
