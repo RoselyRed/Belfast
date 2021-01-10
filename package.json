@@ -1,7 +1,7 @@
 {
-  "name": "torrent-bot",
-  "version": "1.0.0",
-  "description": "Torrent bot for downloading and searching torrents",
+  "name": "Belfast",
+  "version": "1.0.1",
+  "description": "All-in-One Personal Management bot for Managing torr/mags",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
@@ -9,13 +9,13 @@
     "start": "NODE_ENV=production node index.js"
   },
   "keywords": [
-    "torrent",
-    "bot",
+    "belfast",
+    "management",
     "download",
     "search",
     "seed"
   ],
-  "author": "pathetic_geek",
+  "author": "Minalinsky",
   "license": "ISC",
   "nodemonConfig": {
     "ignore": [
